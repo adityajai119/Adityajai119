@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adityajai119&label=Profile%20Views&color=6c5ce7&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/adityajai119?tab=followers"><img src="https://img.shields.io/github/followers/adityajai119?label=Followers&style=for-the-badge&logo=github&color=fe428e" alt="Followers" /></a>
 </p>
 
 <h2 align="center">🧑‍💻 About Me</h2>
@@ -51,7 +50,9 @@
   <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/MCP%20%7C%20RAG%20%7C%20Agents-6C5CE7?style=for-the-badge" alt="MCP, RAG, agents" />
+  <img src="https://img.shields.io/badge/MCP-6C5CE7?style=for-the-badge" alt="MCP" />
+  <img src="https://img.shields.io/badge/RAG-FE428E?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/AI%20Agents-00CEC9?style=for-the-badge" alt="AI agents" />
 </div>
 
 <h2 align="center">📂 Featured Projects</h2>
