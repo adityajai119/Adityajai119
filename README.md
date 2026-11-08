@@ -51,8 +51,8 @@
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/MCP-6C5CE7?style=for-the-badge" alt="MCP" />
-  <img src="https://img.shields.io/badge/RAG-FE428E?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/AI%20Agents-00CEC9?style=for-the-badge" alt="AI agents" />
+  <img src="https://img.shields.io/badge/RAG-FE428E?style=for-the-badge&cacheSeconds=86400" alt="RAG" />
+  <img src="https://img.shields.io/badge/AI%20Agents-00CEC9?style=for-the-badge&cacheSeconds=86400" alt="AI agents" />
 </div>
 
 <h2 align="center">📂 Featured Projects</h2>
