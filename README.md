@@ -10,6 +10,8 @@
   <img src="https://komarev.com/ghpvc/?username=adityajai119&label=Profile%20Views&color=6c5ce7&style=for-the-badge" alt="Profile views" />
 </p>
 
+<p align="center"><img src="assets/neon-divider.gif" width="100%" alt="" /></p>
+
 <h2 align="center">🧑‍💻 About Me</h2>
 
 <table align="center">
@@ -26,7 +28,7 @@
       </ul>
     </td>
     <td width="42%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityajai119&theme=radical" width="100%" alt="GitHub stats" />
+      <img src="assets/ai-hologram.gif" width="100%" alt="Pixel-art hologram of a turning AI core" />
     </td>
   </tr>
 </table>
@@ -54,6 +56,8 @@
   <img src="https://img.shields.io/badge/RAG-FE428E?style=for-the-badge&cacheSeconds=86400" alt="RAG" />
   <img src="https://img.shields.io/badge/AI%20Agents-00CEC9?style=for-the-badge&cacheSeconds=86400" alt="AI agents" />
 </div>
+
+<p align="center"><img src="assets/neon-divider.gif" width="100%" alt="" /></p>
 
 <h2 align="center">📂 Featured Projects</h2>
 
@@ -137,7 +141,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityajai119&theme=radical&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityajai119&theme=radical" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityajai119&theme=radical&hide_border=true" height="165" alt="GitHub streak" />
 </div>
 
 <h2 align="center">🏅 GitHub Trophies</h2>
@@ -155,6 +160,8 @@
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/adityajai119/Adityajai119/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
+<p align="center"><img src="assets/neon-divider.gif" width="100%" alt="" /></p>
 
 <h2 align="center">📫 Connect with Me</h2>
 
