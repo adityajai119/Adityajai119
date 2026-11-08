@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fe428e,50:6c5ce7,100:00cec9&height=220&section=header&text=Mohan%20Aditya&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20AI%20Forward%20Deployed%20Engineer%20at%20Accenture&descSize=18&descAlignY=57&animation=twinkling" width="100%" alt="Mohan Aditya" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fe428e,50:6c5ce7,100:00cec9&height=220&section=header&text=Tummala%20Mohan%20Aditya&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=AI%20Forward%20Deployed%20Engineer%20at%20Accenture&descSize=19&descAlignY=57&animation=twinkling" width="100%" alt="Tummala Mohan Aditya" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FE428E&center=true&vCenter=true&width=560&lines=Backend+Engineer+at+Accenture;Go+%7C+Python+%7C+TypeScript;Building+AI+agents+on+Google+Cloud;IBM+National+Hackathon+Winner" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=FE428E&center=true&vCenter=true&width=640&lines=AI+Forward+Deployed+Engineer+at+Accenture;Building+AI+agents+on+Google+Cloud;Go+%7C+Python+%7C+TypeScript;IBM+National+Hackathon+Winner" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
     <td width="58%" valign="top">
       <ul>
         <li>🔭 AI Forward Deployed Engineer at <b>Accenture</b>. I build generative AI apps and agents for enterprise customers and ship them on <b>Google Cloud</b> (Cloud Run, Vertex AI).</li>
-        <li>⚙️ I write backend services in <b>Go, Python and TypeScript</b>: REST and GraphQL APIs, streaming, FastAPI.</li>
+        <li>⚙️ I write services in <b>Go, Python and TypeScript</b>: REST and GraphQL APIs, streaming, FastAPI.</li>
         <li>🤖 Ask me about <b>LLM agents</b>, tool calling, MCP servers, RAG and LLM evaluation.</li>
         <li>🌱 Lately I've been sending bug fixes to open source projects like <b>Mermaid</b> and <b>Apache ECharts</b>.</li>
         <li>🎓 B.Tech CSE (AI &amp; ML), Kalasalingam University, 2026. CGPA 8.96.</li>
@@ -37,8 +37,8 @@
   <h3>Languages</h3>
   <img src="https://skillicons.dev/icons?i=go,python,ts,js,java&perline=10" alt="Languages" />
 
-  <h3>Backend &amp; Data</h3>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,graphql,postgres,firebase,react,remix&perline=10" alt="Backend and data" />
+  <h3>APIs &amp; Data</h3>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,graphql,postgres,firebase,react,remix&perline=10" alt="APIs and data" />
   <br />
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
 
@@ -120,9 +120,7 @@
 
 <div align="center">
 
-**Microsoft Learn Student Ambassador** (2024-2026): 12+ workshops for 200+ engineers on generative AI<br>
-**Google Developer Groups KARE**: study jams on Google Cloud, the Gemini API and agentic AI<br>
-**GeeksforGeeks KARE**: led 50+ technical sessions
+**Microsoft Learn Student Ambassador** (2024-2026): 12+ workshops for 200+ engineers on generative AI
 
 </div>
 
