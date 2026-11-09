@@ -69,51 +69,14 @@
 
 <img src="assets/ui/title-projects.svg" width="100%" alt="Featured Projects" />
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧱 Fluixy.ai</h3>
-      <p>An AI app builder for Indian users, built on top of bolt.diy. I wrote the Go service behind it, which streams Gemini, OpenAI, Anthropic and Bedrock through one GraphQL API. Prompts work in English, Hindi, Telugu and Tamil, by text or voice.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Remix-000000?style=flat-square&logo=remix&logoColor=white" alt="Remix" />
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-        <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
-        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔎 <a href="https://github.com/adityajai119/DevSensei">DevSensei</a></h3>
-      <p>Ask questions about a whole codebase. It pulls hundreds to thousands of files from a GitHub repo, indexes them for retrieval and lets Gemini answer with that context.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/adityajai119/GENESIS-AI">GENESIS-AI</a></h3>
-      <p>An agentic chatbot that hands each request to a small team of AI agents, coordinates them and answers by text or voice.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🩺 <a href="https://github.com/adityajai119/BC-project">Breast Cancer AI Studio</a></h3>
-      <p>Diagnosis support with three ML models, a SHAP explanation for every prediction and a Gemini chatbot.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/projects/project-fluixy.svg" width="49%" alt="Fluixy.ai: AI app builder for Indian users" />
+  <a href="https://github.com/adityajai119/DevSensei"><img src="assets/projects/project-devsensei.svg" width="49%" alt="DevSensei: codebase Q&amp;A with RAG" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/adityajai119/GENESIS-AI"><img src="assets/projects/project-genesis.svg" width="49%" alt="GENESIS-AI: an agent team for every request" /></a>
+  <a href="https://github.com/adityajai119/BC-project"><img src="assets/projects/project-bcstudio.svg" width="49%" alt="Breast Cancer AI Studio: 3 ML models explained with SHAP" /></a>
+</p>
 
 <img src="assets/ui/title-achievements.svg" width="100%" alt="Achievements" />
 
