@@ -28,7 +28,7 @@
       </ul>
     </td>
     <td width="42%" align="center">
-      <img src="assets/ai-hologram.gif" width="100%" alt="Pixel-art hologram of a turning AI core" />
+      <img src="assets/pixel-agent.gif" width="100%" alt="Pixel-art engineer at a console driving a hologram of an AI core" />
     </td>
   </tr>
 </table>
@@ -37,6 +37,8 @@
 
 <div align="center">
   <img src="assets/agent-rig.svg" width="100%" alt="Isometric workbench: a request card passes the agent core, tool cartridges, a retrieval drawer and an eval gauge, then deploys to a server rack" />
+  <br />
+  <img src="assets/pixel-deploy.gif" width="448" alt="Pixel-art crate launching into a cloud that flashes a check mark" />
 </div>
 
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -114,6 +116,10 @@
 </table>
 
 <h2 align="center">🏆 Achievements</h2>
+
+<div align="center">
+  <img src="assets/pixel-trophy.gif" width="160" alt="Pixel-art trophy with turning rays and sparkles" />
+</div>
 
 <div align="center">
 
