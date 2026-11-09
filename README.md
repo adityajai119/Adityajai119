@@ -66,7 +66,7 @@
 <img src="assets/ui/title-projects.svg" width="100%" alt="Featured Projects" />
 
 <p align="center">
-  <img src="assets/projects/project-fluixy.svg" width="49%" alt="Fluixy.ai: AI app builder for Indian users" />
+  <a href="https://github.com/adityajai119/Fluixy.ai"><img src="assets/projects/project-fluixy.svg" width="49%" alt="Fluixy.ai: AI app builder for Indian users" /></a>
   <a href="https://github.com/adityajai119/DevSensei"><img src="assets/projects/project-devsensei.svg" width="49%" alt="DevSensei: codebase Q&amp;A with RAG" /></a>
 </p>
 <p align="center">
