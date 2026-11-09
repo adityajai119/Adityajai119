@@ -12,7 +12,7 @@
 
 <p align="center"><img src="assets/neon-divider.gif" width="100%" alt="" /></p>
 
-<h2 align="center">🧑‍💻 About Me</h2>
+<img src="assets/ui/title-about.svg" width="100%" alt="About Me" />
 
 <table align="center">
   <tr>
@@ -33,7 +33,7 @@
   </tr>
 </table>
 
-<h2 align="center">⚙️ How I Ship an AI Agent</h2>
+<img src="assets/ui/title-ship.svg" width="100%" alt="How I Ship an AI Agent" />
 
 <div align="center">
   <img src="assets/agent-rig.svg" width="100%" alt="Isometric workbench: a request card passes the agent core, tool cartridges, a retrieval drawer and an eval gauge, then deploys to a server rack" />
@@ -41,7 +41,7 @@
   <img src="assets/pixel-deploy.gif" width="448" alt="Pixel-art crate launching into a cloud that flashes a check mark" />
 </div>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<img src="assets/ui/title-stack.svg" width="100%" alt="Tech Stack" />
 
 <div align="center">
   <h3>Languages</h3>
@@ -67,7 +67,7 @@
 
 <p align="center"><img src="assets/neon-divider.gif" width="100%" alt="" /></p>
 
-<h2 align="center">📂 Featured Projects</h2>
+<img src="assets/ui/title-projects.svg" width="100%" alt="Featured Projects" />
 
 <table>
   <tr>
@@ -115,7 +115,7 @@
   </tr>
 </table>
 
-<h2 align="center">🏆 Achievements</h2>
+<img src="assets/ui/title-achievements.svg" width="100%" alt="Achievements" />
 
 <div align="center">
   <img src="assets/pixel-trophy.gif" width="160" alt="Pixel-art trophy with turning rays and sparkles" />
@@ -132,7 +132,7 @@
 
 </div>
 
-<h2 align="center">🌍 Community</h2>
+<img src="assets/ui/title-community.svg" width="100%" alt="Community" />
 
 <div align="center">
 
@@ -140,7 +140,7 @@
 
 </div>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<img src="assets/ui/title-analytics.svg" width="100%" alt="GitHub Analytics" />
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityajai119&theme=radical" width="100%" alt="Profile details" />
@@ -157,13 +157,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityajai119&theme=radical&hide_border=true" height="165" alt="GitHub streak" />
 </div>
 
-<h2 align="center">🏅 GitHub Trophies</h2>
-
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=adityajai119&theme=radical&no-frame=true&margin-w=4&row=1&column=6" alt="GitHub trophies" />
 </div>
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<img src="assets/ui/title-snake.svg" width="100%" alt="Contribution Snake" />
 
 <div align="center">
   <picture>
@@ -175,14 +173,12 @@
 
 <p align="center"><img src="assets/neon-divider.gif" width="100%" alt="" /></p>
 
-<h2 align="center">📫 Connect with Me</h2>
+<img src="assets/ui/title-connect.svg" width="100%" alt="Connect with Me" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tummala-mohan-aditya-35349625a/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:tummalamohanaditya119@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
-  <a href="https://github.com/adityajai119"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/tummala-mohan-aditya-35349625a/"><img src="assets/ui/btn-linkedin.svg" height="48" alt="LinkedIn" /></a>
+  <a href="mailto:tummalamohanaditya119@gmail.com"><img src="assets/ui/btn-email.svg" height="48" alt="Email" /></a>
+  <a href="https://github.com/adityajai119"><img src="assets/ui/btn-github.svg" height="48" alt="GitHub" /></a>
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00cec9,50:6c5ce7,100:fe428e&height=120&section=footer" width="100%" alt="Footer" />
-</div>
+<img src="assets/ui/footer.svg" width="100%" alt="Thanks for stopping by" />
