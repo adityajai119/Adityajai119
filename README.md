@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/story/stats.svg" width="100%" alt="8.96 CGPA, 12+ workshops taught, 200+ engineers reached, 4 LLM providers behind one API" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=adityajai119&label=Profile%20Views&color=6c5ce7&style=for-the-badge" alt="Profile views" />
 </p>
 
@@ -38,28 +42,20 @@
 <div align="center">
   <img src="assets/agent-rig.svg" width="100%" alt="Isometric workbench: a request card passes the agent core, tool cartridges, a retrieval drawer and an eval gauge, then deploys to a server rack" />
   <br />
+  <img src="assets/story/terminal.svg" width="100%" alt="Terminal: gcloud run deploy of a support agent to Cloud Run, then a curl to the agent with its streamed answer" />
+  <br />
   <img src="assets/pixel-deploy.gif" width="448" alt="Pixel-art crate launching into a cloud that flashes a check mark" />
 </div>
 
 <img src="assets/ui/title-stack.svg" width="100%" alt="Tech Stack" />
 
 <div align="center">
-  <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=go,python,ts,js,java&perline=10" alt="Languages" />
-
-  <h3>APIs &amp; Data</h3>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,graphql,postgres,firebase,react,remix&perline=10" alt="APIs and data" />
+  <img src="assets/story/orbit.svg" width="100%" alt="Tech orbit: Go, Python, TypeScript, JavaScript, Google Cloud, Docker, FastAPI, GraphQL, PostgreSQL, Firebase, React, LangChain, Gemini, PyTorch and Cloudflare circling an AI core" />
   <br />
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
-
-  <h3>Cloud &amp; DevOps</h3>
-  <img src="https://skillicons.dev/icons?i=gcp,cloudflare,docker,githubactions,git,linux&perline=10" alt="Cloud and DevOps" />
-
-  <h3>AI &amp; Agents</h3>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,remix,githubactions,git,linux&perline=10" alt="Java, Node.js, Remix, GitHub Actions, Git, Linux" />
+  <br />
   <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
   <img src="https://img.shields.io/badge/MCP-6C5CE7?style=for-the-badge" alt="MCP" />
   <img src="https://img.shields.io/badge/RAG-FE428E?style=for-the-badge&cacheSeconds=86400" alt="RAG" />
   <img src="https://img.shields.io/badge/AI%20Agents-00CEC9?style=for-the-badge&cacheSeconds=86400" alt="AI agents" />
@@ -85,14 +81,7 @@
 </div>
 
 <div align="center">
-
-| | |
-|---|---|
-| 🥇 | **Winner**, IBM National Hackathon |
-| 🥇 | **1st Prize**, OWASP Hackathon and AR/VR Challenge |
-| 🥈 | **Runner-up**, Google GenAI Challenge and CodeChef Codetest |
-| ✅ | Qualified for Amazon HackOn and AWS AI for Bharat |
-
+  <img src="assets/story/achievements.svg" width="100%" alt="Winner, IBM National Hackathon. 1st Prize, OWASP Hackathon. 1st Prize, AR/VR Challenge. Runner-up, Google GenAI Challenge. Runner-up, CodeChef Codetest. Qualified, Amazon HackOn and AWS AI for Bharat." />
 </div>
 
 <img src="assets/ui/title-community.svg" width="100%" alt="Community" />
