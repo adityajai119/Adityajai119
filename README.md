@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fe428e,50:6c5ce7,100:00cec9&height=220&section=header&text=Tummala%20Mohan%20Aditya&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=AI%20Forward%20Deployed%20Engineer%20at%20Accenture&descSize=19&descAlignY=57&animation=twinkling" width="100%" alt="Tummala Mohan Aditya" />
+  <img src="assets/hero.svg" width="100%" alt="Tummala Mohan Aditya, AI Forward Deployed Engineer at Accenture" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=FE428E&center=true&vCenter=true&width=640&lines=AI+Forward+Deployed+Engineer+at+Accenture;Building+AI+agents+on+Google+Cloud;Go+%7C+Python+%7C+TypeScript;IBM+National+Hackathon+Winner" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=FE428E&center=true&vCenter=true&width=640&lines=Go+%7C+Python+%7C+TypeScript;Gemini+%7C+Vertex+AI+%7C+Cloud+Run;IBM+National+Hackathon+Winner;Microsoft+Learn+Student+Ambassador" alt="Typing intro" />
 </p>
 
 <p align="center">
