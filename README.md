@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/story/stats.svg" width="100%" alt="8.96 CGPA, 12+ workshops taught, 200+ engineers reached, 4 LLM providers behind one API" />
+  <img src="assets/story/stats.svg" width="100%" alt="8.96 CGPA, 12+ workshops taught, 200+ engineers reached, AI Forward Deployed Engineer" />
 </p>
 
 <p align="center">
